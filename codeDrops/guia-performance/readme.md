@@ -31,3 +31,5 @@ useMemo will compare the value inside the dependency array and check if it's cha
 
 # useCallback
 
+1 - Mostly to resolve problems of referencial equality (shallow compare problem)
+
